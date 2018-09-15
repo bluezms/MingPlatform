@@ -1,0 +1,2 @@
+# MingPlatform
+my Platform
